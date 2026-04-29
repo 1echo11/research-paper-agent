@@ -1,1 +1,0 @@
-print('radar intelligence demo')
